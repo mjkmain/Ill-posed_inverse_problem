@@ -1,5 +1,5 @@
 # Ill-posed_inverse_problem
-Topic : Optimization of Tikhonov Regularization Parameter
+> Topic : Optimization of Tikhonov Regularization Parameter
 
 ### find Best parameter of Tikhonov Regularization
 ### Use DNN, Specifically I have tried XAI
